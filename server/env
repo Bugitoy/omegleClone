@@ -1,0 +1,5 @@
+PORT = "3000"
+REDIS_PWD="myredispassword"
+REDIS_HOST="redis"
+REDIS_PORT="6379"
+PUBLIC_WEBSOCKET_URL="http://localhost:5173/"
