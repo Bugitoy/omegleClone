@@ -38,25 +38,31 @@ Deployed on AWS with Nginx serving both frontend and backend.
 # Clone repository
 git clone [repo-url]
 
-# Setup Client
-cd client
-npm install
-mv env .env
-npm run dev
+# Setup before running
+mv client/env client/.env && mv server/env server/.env && cd client && npm install && cd ../server && npm install
 
-# Setup Server
-cd server
-npm install
-mv env .env  # Configure Redis parameters
-npm start
+# Start Client
+cd client && npm run dev
+
+# Start Server
+cd server 
+
+## Docker server start 
+docker-compose up -d (docker setup)
+
+## Manual server start (update .env file redis config)
+npm run dev
 ```
 
-## Future Improvements
-- Enhanced error handling
-- Additional chat features
-- Improved UI/UX
-- Security enhancements
-- Performance optimizations
+## More Complex Version
+
+Looking for a more advanced version of this app?
+Check out SquadX — a much more feature-rich video chat experience:
+[https://github.com/rohitsx/SquadX](https://github.com/rohitsx/SquadX)
+
+## Custom Features or Help?
+Need something custom-built or want to collaborate?
+Feel free to reach out to me at  rohitbindw@gmail.com
 
 ## Contributing
 1. Fork the repository
