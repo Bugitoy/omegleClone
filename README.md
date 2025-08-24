@@ -62,7 +62,7 @@ Check out SquadX — a much more feature-rich video chat experience:
 
 ## Custom Features or Help?
 Need something custom-built or want to collaborate?
-Feel free to reach out to me at  rohitbindw@gmail.com
+Feel free to reach out to me at lefikatmoalosi@gmail.com
 
 ## Contributing
 1. Fork the repository
