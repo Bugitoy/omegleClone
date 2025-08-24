@@ -72,7 +72,7 @@ Feel free to reach out to me at  rohitbindw@gmail.com
 5. Open a Pull Request
 
 ## Contact
-Rohit Bind - [rohitbindw@gmail.com](mailto:rohitbindw@gmail.com)
+Lefika Moalosi - [lefikatmoalosi@gmail.com](mailto:lefikatmoalosi@gmail.com)
 
 ---
 Keywords: omegle clone github, random video chat app, omegle alternative, open source video chat, webrtc video chat, omegle like, omegle clone, random video chat, omegle alternative, open source omegle, video chat app, random chat application, webrtc video chat, react video chat, omegle like app github, video chat github, omegle clone github, random video chat open source
