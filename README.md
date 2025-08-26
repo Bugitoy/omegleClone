@@ -1,6 +1,6 @@
-# OmegleClone - Open Source Random Video Chat App
+# ChatRush - Open Source Random Video Chat App
 
-OmegleMeet is a real-time video chat app inspired by Omegle. It allows users to connect with strangers for live video calls and text chats.
+ChatRush is a real-time video chat app inspired by Omegle. It allows users to connect with strangers for live video calls and text chats.
 
 🔴 **[Live Demo (currently broke)](http://omeglemeet.devrohit.tech/)** - Or checkout demo video below
 [![OmegleMeet Demo](https://img.youtube.com/vi/YTGfyUdhu-U/0.jpg)](https://www.youtube.com/watch?v=YTGfyUdhu-U)
